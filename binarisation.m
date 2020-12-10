@@ -1,4 +1,4 @@
 function signature = binarisation(signature1,seuil)
-    signature = (signature>seuil);
+    signature = (signature1>seuil);
 end
 
